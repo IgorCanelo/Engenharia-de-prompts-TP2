@@ -1,0 +1,5 @@
+google.generativeai
+PyYAML
+matplotlib
+pandas
+json
